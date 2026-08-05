@@ -1,25 +1,12 @@
 {
   "spec": 1,
-  "name": "MultiCraft Font",
+  "name": "MultiCraft",
   "previewText": "MultiCraft Font",
   "main": {
-    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-Bold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-BoldItalic": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-ExtraBold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-ExtraBoldItalic": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-Medium": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-MediumItalic": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-NormalItalic": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-Semibold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggsans-SemiboldItalic": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "NotoSans-Bold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "NotoSans-Medium": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "NotoSans-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "NotoSans-NormalItalic": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "NotoSans-Semibold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf",
-    "ggmono-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/MultiCraftFont.ttf"
+    "ggsans-Normal": "./MultiCraftFont.ttf",
+    "ggsans-Bold": "./MultiCraftFont.ttf",
+    "ggsans-Medium": "./MultiCraftFont.ttf",
+    "NotoSans-Normal": "./MultiCraftFont.ttf",
+    "ggmono-Normal": "./MultiCraftFont.ttf"
   }
 }
