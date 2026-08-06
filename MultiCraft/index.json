@@ -3,10 +3,10 @@
   "name": "MultiCraft",
   "previewText": "MultiCraft Font",
   "main": {
-    "ggsans-Normal": "./MultiCraftFont.ttf",
-    "ggsans-Bold": "./MultiCraftFont.ttf",
-    "ggsans-Medium": "./MultiCraftFont.ttf",
-    "NotoSans-Normal": "./MultiCraftFont.ttf",
-    "ggmono-Normal": "./MultiCraftFont.ttf"
+    "ggsans-Normal": "https://github.com/Nathmatt22/Font-rain/raw/main/MultiCraftFont.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Nathmatt22/Font-rain/raw/main/MultiCraftFont.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/Nathmatt22/Font-rain/raw/main/MultiCraftFont.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/Nathmatt22/Font-rain/raw/main/MultiCraftFont.ttf?raw=1",
+    "ggmono-Normal": "https://github.com/Nathmatt22/Font-rain/raw/main/MultiCraftFont.ttf?raw=1"
   }
 }
