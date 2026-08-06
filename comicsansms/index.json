@@ -1,0 +1,12 @@
+{
+  "spec": 1,
+  "name": "Minecraft Dungeon",
+  "previewText": "Minecraft Dungeon Font",
+  "main": {
+    "ggsans-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/comicsansms/COMIC.TTF",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/comicsansms/COMIC.TTF",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/comicsansms/COMIC.TTF",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/comicsansms/COMIC.TTF",
+    "ggmono-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/comicsansms/COMIC.TTF.ttf"
+  }
+}
