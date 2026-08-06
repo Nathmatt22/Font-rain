@@ -3,10 +3,10 @@
   "name": "Minecraft Dungeon",
   "previewText": "Minecraft Dungeon Font",
   "main": {
-    "ggsans-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon",
-    "ggsans-Bold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon",
-    "ggsans-Medium": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon",
-    "NotoSans-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon",
-    "ggmono-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon"
+    "ggsans-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon.ttf",
+    "ggmono-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/minecraftDungeon/minecraftDungeon.ttf.ttf"
   }
 }
