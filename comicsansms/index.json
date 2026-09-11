@@ -1,7 +1,7 @@
 {
   "spec": 1,
   "name": "comic sans ms",
-  "previewText": hello world !",
+  "previewText": "hello world !",
   "main": {
     "ggsans-Normal": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/comicsansms/COMIC.TTF",
     "ggsans-Bold": "https://raw.githubusercontent.com/Nathmatt22/Font-rain/main/comicsansms/COMIC.TTF",
