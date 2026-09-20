@@ -1,5 +1,5 @@
 {
-      "name": "Mon Theme",
+      "name": "test",
         "spec": 2,
 
           "semanticColors": {
@@ -7,7 +7,7 @@
                 },
 
                   "background": {
-                      "url": "https://exemple.com/background.jpg",
+                      "url": "https://github.com/Nathmatt22/Font-rain/blob/main/themes/themes1/images/Screenshot_20260821-181506.png",
                           "opacity": 0.3
                             }
  }
