@@ -1,0 +1,13 @@
+{
+      "name": "Mon Theme",
+        "spec": 2,
+
+          "semanticColors": {
+              "BACKGROUND_PRIMARY": ["#111111"]
+                },
+
+                  "background": {
+                      "url": "https://exemple.com/background.jpg",
+                          "opacity": 0.3
+                            }
+ }
